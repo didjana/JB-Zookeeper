@@ -1,0 +1,5 @@
+n = int(input())
+r = (n + n)
+s = (r * n)
+b = (s - n)
+print(b // n)
